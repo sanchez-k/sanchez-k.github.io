@@ -4,7 +4,7 @@ This is my home page! My name is Kassandra Sanchez and I am a student at [Cal St
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/sanchez-k.
+My GitHub page is [https://github.com/sanchez-k](https://github.com/sanchez-k).
 
 ### CPSC 120
 
